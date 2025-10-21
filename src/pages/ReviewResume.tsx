@@ -1,0 +1,8 @@
+
+function ReviewResume() {
+  return (
+    <div>ReviewResume</div>
+  )
+}
+
+export default ReviewResume
