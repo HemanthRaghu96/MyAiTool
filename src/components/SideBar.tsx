@@ -13,7 +13,7 @@ import {
 import { NavLink } from "react-router-dom";
 const navItems = [
   { to: "/ai", label: "Dashboard", Icon: House },
-  { to: "/ai/write-article", label: "Dashboard", Icon: SquarePen },
+  { to: "/ai/write-article", label: "Write Article", Icon: SquarePen },
   { to: "/ai/blog-titles", label: "Blog Title", Icon: Hash },
   { to: "/ai/generate-images", label: "Generate Images", Icon: Image },
   { to: "/ai/remove-background", label: "Remove Background", Icon: Eraser },
